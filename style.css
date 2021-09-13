@@ -346,7 +346,7 @@ a[title="Flaticon"]:hover{
 
 #name1{
     position: relative;
-    right: 70px;
+    right: 0px;
 }
 
 #name1:hover{
@@ -357,13 +357,14 @@ a[title="Flaticon"]:hover{
     text-align: right;
     position: relative;
     left: 0px;
+    right: 0px;
     margin-bottom: 0px;
 }
 
 #name2-2{
     text-align: right;
     position: relative;
-    left: 100px;
+    left: 0px;
 }
 
 #name2-2:hover{
